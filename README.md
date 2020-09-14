@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 ![GitHub followers](https://img.shields.io/github/followers/anshul1507?label=Follow&style=social)
 ![](https://visitor-badge.glitch.me/badge?page_id=anshul1507)
 [![Visits Badge](https://badges.pufler.dev/visits/anshul1507/anshul1507)](https://badges.pufler.dev)
-<img src="https://komarev.com/ghpvc/?username=Anshul1507" alt="Anshul1507" /> </p>
+<!-- <img src="https://komarev.com/ghpvc/?username=Anshul1507" alt="Anshul1507" /> </p> -->
 
 ### <img src="https://media.giphy.com/media/wtgpiXTZKOyTS/giphy.gif" width="50"> A little more about me...  
 
