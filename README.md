@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 <h2>Hi there 👋, I'm Anshul Gupta! <img src="https://media.giphy.com/media/BgXCo6w7Kslaw/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/RM0Csu9TY1yqyyqvwR/giphy.gif" width="230">
-<p><em>Checkout my <a href="http://anshul1507.tech/">Portfolio</a><img src="https://media.giphy.com/media/3oFzm4W5S8U6VDnBdK/giphy.gif" width="45"> 
+<p><em>Checkout my <a href="https://anshul1507.github.io/">Portfolio</a><img src="https://media.giphy.com/media/3oFzm4W5S8U6VDnBdK/giphy.gif" width="45"> 
 </em></p>
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/thenoobydev?label=Follow)
@@ -34,18 +34,17 @@ Here are some ideas to get you started:
 ```javascript
 var anshul1507 = {
     pronouns: "He" | "Him",
-    code: listOf("Java", "Kotlin", "C++", "HTML", "CSS", "sqlite"),
-    askMeAbout: listOf("Android", "Tech", "Competitive programming", "Motivation"),
+    code: listOf("Kotlin", "Java", "C++"),
     technologies: {
         frontEnd: {
-            Android: listOf("Kotlin", "Java", "Dart"),
-            Web: listOf("HTML", "CSS")
+            Android: listOf("Native Kotlin", "Jetpack Compose"),
+            Web: listOf("Angular")
         },
         backEnd: {
             Stack: "Firebase"
         },
-        databases: listOf("MySql", "sqlite", "Firebase", "mongo"),
-        misc: listOf("Adobe XD", "Zeplin", "Figma", "Jenkins", "Socket.IO", "GCP")
+        databases: listOf("sqlite", "Mongo"),
+        misc: listOf("Adobe XD", "Zeplin", "Figma", "Socket.IO")
     }
 };
 ```
